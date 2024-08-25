@@ -1,0 +1,50 @@
+h1  {  
+
+  color: #af69cd;
+  text-align: center;background:black;
+}
+
+.text{
+color: #af69cd;
+  text-align: center;
+	background:green;
+width:80%; 
+margin:0 0 0 87px;
+
+
+}
+
+body{background:red;
+ text-align: center;
+
+}
+
+button{background:white;
+border-radius: 8px;
+padding: 1% 2.6rem;
+cursor: pointer;
+
+
+}
+
+
+.menu{
+margin: 0 15px;
+
+
+}
+.luffy{width:80%;
+margin:	0 0 45px 0;
+
+
+
+}
+
+.heart{margin:0 0 100px 0;
+border-radius: 8px;
+padding: 1% 2.6rem;
+
+
+
+
+}
