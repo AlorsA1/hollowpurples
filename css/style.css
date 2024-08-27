@@ -1,35 +1,51 @@
 h1  {  
 
   color: #af69cd;
-  text-align: center;background:black;
+  text-align: center;background:#713112;
+margin:-8px -2%;
 }
 
 .text{
-color: #af69cd;
+color:black;
   text-align: center;
-	background:green;
+	background:;
 width:80%; 
-margin:0 0 0 87px;
+margin:0 auto;
 
 
 }
 
-body{background:red;
+body{background:white;
  text-align: center;
+ background-image: linear-gradient(white, #e6b68b);
 
 }
 
-button{background:white;
-border-radius: 8px;
-padding: 1% 2.6rem;
-cursor: pointer;
+.logo{width: 74px;
+    margin: 1px 25% -32px 0;
 
 
 }
 
+button{background-color: #e6b68b;
+  border: none;
+  color: #713112;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 150px;
 
-.menu{
-margin: 0 15px;
+}
+.menu{background-color: #e6b68b;
+
+}
+
+.botoes{
+margin: 15px 15px;
 
 
 }
@@ -39,12 +55,14 @@ margin:	0 0 45px 0;
 
 
 }
-
-.heart{margin:0 0 100px 0;
-border-radius: 8px;
-padding: 1% 2.6rem;
+footer{background:#713112}
 
 
+.logo-footer{width:109px;
+    margin: 18px 0;
+}
 
 
+li{margin: -17px 0 0 0;
+list-style:none
 }
